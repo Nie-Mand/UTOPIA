@@ -22,3 +22,29 @@
                                   0O
                                   ,M;
                                    lx
+
+
+
+
+
+### Challenges Codes:
+- UTOPIA: `hello-world`
+- HYAENA: `hyaena`
+- THANK GOD: `thank-god`
+- MODERN JAM: `modern-jam`
+- MY EYES: `my-eyes`
+- GOD'S COUNTRY: `gods-country`
+- SIRENS: `sirens`
+- MELTDOWN: `meltdown`
+- FE!N: `fe!n`
+- DELREST (ECHOES): `delresto-echoes`
+- I KNOW: `i-know`
+- TOPIA TWINS: `topia-twins`
+- CIRCUS MAXIMUS: `circus-maximus`
+- PARASAIL: `parasail`
+- SKITZO: `skitzo`
+- LOST FOREVER: `lost-forever`
+- LOOOVE: `looove`
+- K-POP: `k-pop`
+- TELEKINESIS: `telekinesis`
+- TIL FURTHER NOTICE: `til-further-notice`
