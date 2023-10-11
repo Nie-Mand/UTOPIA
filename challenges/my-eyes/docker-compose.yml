@@ -1,0 +1,8 @@
+version: "3"
+
+services:
+  my-eyes:
+    build: .
+    read_only: true
+    ports:
+      - "8005:8005"

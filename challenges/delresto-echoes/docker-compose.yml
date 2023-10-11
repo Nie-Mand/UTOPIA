@@ -1,0 +1,8 @@
+version: "3"
+
+services:
+  delresto:
+    build: .
+    read_only: true
+    ports:
+      - "8009:8009"

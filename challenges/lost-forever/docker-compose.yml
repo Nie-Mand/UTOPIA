@@ -1,0 +1,7 @@
+version: "3"
+
+services:
+  lost-forever:
+    build: .
+    ports:
+      - "8015:8015"

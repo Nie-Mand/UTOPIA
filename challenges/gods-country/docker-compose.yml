@@ -1,0 +1,8 @@
+version: "3"
+
+services:
+  gods-country:
+    build: .
+    read_only: true
+    ports:
+      - "8006:8006"

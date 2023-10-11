@@ -1,0 +1,8 @@
+version: "3"
+
+services:
+  fein:
+    build: .
+    read_only: true
+    ports:
+      - 8008:8008

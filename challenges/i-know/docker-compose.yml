@@ -1,0 +1,14 @@
+version: "3"
+
+services:
+  kv: 
+    image: redis:alpine3.18
+    ports:
+      - "6379"
+
+  i-know:
+    build: .
+    ports:
+      - "8010:8010"
+    depends_on:
+      - kv

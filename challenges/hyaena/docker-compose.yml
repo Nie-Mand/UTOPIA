@@ -1,0 +1,7 @@
+version: "3"
+
+services:
+  hyaena:
+    build: .
+    ports:
+      - "8001:8001"
